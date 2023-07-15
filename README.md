@@ -1,4 +1,4 @@
-# This is an Sampple End to End ML project
+# This is an Sample End to End ML project
 
 ### Create new virtual environment and actiate it
 
