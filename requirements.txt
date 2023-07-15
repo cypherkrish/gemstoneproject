@@ -1,6 +1,7 @@
 numpy
 pandas
 Flask
+flask
 seaborn
 scikit-learn
 -e .
